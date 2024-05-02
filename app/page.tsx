@@ -1,4 +1,4 @@
-import Head from "./components/head/page";
+import Head from "./components/header/page";
 import Image from "next/image";
 
 export default function Home() {
