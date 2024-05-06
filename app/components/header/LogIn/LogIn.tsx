@@ -1,0 +1,1 @@
+// this is where the user will have the ability to either LogIn if they have an account or they will have to sign in which would lead them to another page where they would have to create a profile. This would have to reach out to our DB and check if the user exists. 
