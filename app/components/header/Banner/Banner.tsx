@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Banner = () => {
-  return (
-    <div>Rently</div>
-  )
-}
+  return <div className="py-4 md:py-8">Rently</div>;
+};
 
-export default Banner
+export default Banner;

@@ -1,11 +1,10 @@
-import Head from "./components/header/Header";
+import Banner from './components/header/Banner/Banner';
 import Image from "next/image";
 
 export default function Home() {
   return (
     <>
-      <main> Hello World </main>
-      <Head/>
+      <Banner/>
     </>
   );
 }
